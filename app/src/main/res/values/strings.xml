@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BTClient!</string>
+    <!--<string name="app_name">蓝牙通讯系统</string>-->
+    <string name="app_name">水果糖度无损检测设备手机客户端</string>
+</resources>

@@ -1,0 +1,54 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 31
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.example.test"
+        minSdkVersion 19
+        targetSdkVersion 31
+        multiDexEnabled false
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    sourceSets{
+        main{
+            jniLibs.srcDir 'libs'
+            jni.srcDirs = []    //disable automatic ndk-build
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    applicationVariants.all { variant ->
+        variant.outputs.all { output ->
+            def project = variant.applicationId
+            def separator = "_"
+            def versionName = variant.versionName
+            def outputFile = output.outputFile
+            if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                def apkName = project + separator + "v" + versionName + ".apk"
+                //def apkName = outputFile.name.replace(".apk", "-${defaultConfig.versionName}.apk")
+                outputFileName = apkName
+            }
+        }
+    }
+}
+
+
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation files('libs/jxl.jar')
+    implementation files('libs/AMap_Location_V5.4.0_20210722.jar')
+    implementation 'com.amap.api:map2d:latest.integration'
+}

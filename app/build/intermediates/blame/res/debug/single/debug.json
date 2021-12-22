@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-hdpi_title.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-hdpi/title.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_flash.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-xxhdpi/icon_flash.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-mdpi_hehum.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-mdpi/hehum.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hehum.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-xxhdpi/hehum.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-mdpi_temp.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-mdpi/temp.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-hdpi_temp.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-hdpi/temp.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_apple.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-mdpi/icon_apple.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-xhdpi_hehum.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-xhdpi/hehum.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-hdpi_logowenshidu.jpg.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-hdpi/logowenshidu.jpg"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_temp.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-xxhdpi/temp.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_icon_apple.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-xxhdpi/icon_apple.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/layout_message.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_apple.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-hdpi/icon_apple.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-xhdpi_icon_apple.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-xhdpi/icon_apple.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-hdpi_line.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-hdpi/line.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/menu_option_menu.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/menu/option_menu.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-xhdpi_temp.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-xhdpi/temp.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/layout_device_name.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/layout_sname.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/layout/sname.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-hdpi_tempback.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-hdpi/tempback.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/layout_device_list.xml.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mi/AndroidStudioProjects/--main/app/build/intermediates/res/merged/debug/drawable-hdpi_hehum.png.flat",
+        "source": "/home/mi/AndroidStudioProjects/--main/app/src/main/res/drawable-hdpi/hehum.png"
+    }
+]
